@@ -30,6 +30,7 @@ By the age of 12-14, I took two web development courses, which solidified my und
 
 ##📈 Current Focus: Python, Cybersecurity, and Data Analysis
 Now, almost 15, I am immersed in CS50's Introduction to Python course. I plan to further my knowledge with CS50x, CS50's Cybersecurity course, and an AI course. While web development introduced me to IT, I have found my true interests lie in cybersecurity and data analysis.
+update:i took cs50p
 ![CS50P](https://github.com/user-attachments/assets/dbe2c948-41a0-4151-ab1c-6ab0eaa1f16a)
-
+now i am taking cs50 ai
 
